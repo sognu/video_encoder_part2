@@ -1,0 +1,12 @@
+****************************************************************
+Makes a video of a ball bouncing
+****************************************************************
+
+Makefile	- For building and cleaning bouncer
+README		- This file
+
+# source files
+bouncer,  {.cc}	- Primary source code
+
+# please refer to repository 'c/video_encoder' for an explanation of dependencies with FFMPEG
+# please note that FFMPEG must be in your $PATH
